@@ -1,7 +1,7 @@
 # QR_Code_Generator<br>
 This is a simple Python script that generates a QR code for a given URL using the qrcode library.
 
-##📌Description<br>
+<b>##📌Description<br></b>
 The script takes a predefined URL (https://www.indiabix.com/verbal-reasoning) and generates a QR code image (my_qr.png) that can be scanned to visit the link directly.
 
 ##🚀 How to Use<br>
