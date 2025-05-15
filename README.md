@@ -8,7 +8,7 @@ The script takes a predefined URL (https://www.indiabix.com/verbal-reasoning) an
 1.Make sure Python is installed on your system.<br>
 2.Install the required library using pip:
 pip install qrcode[pil] <br>
-3.python your_script_name.py
+3.Run the script:
 python your_script_name.py<br>
 4.The QR code image will be saved in the current directory as my_qr.png.
 
